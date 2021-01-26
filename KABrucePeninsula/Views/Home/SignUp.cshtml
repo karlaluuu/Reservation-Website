@@ -1,0 +1,49 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> Bruce Peninsula </title>
+    <link rel="stylesheet" href="wwwroot/lib/boostrap/dist/css/bootstrap" />
+    <style type="text/css">
+        body {
+            font-family: "Dual-300", sans;
+            background-color: #e2f3ff;
+        }
+        * {
+            box-sizing: border-box;
+        }
+        .btn2
+        {
+            font-weight: bold;
+            background-color: #e5e5e5;
+            border: black;
+            color: #5c5d5e;
+            text-align: center;
+            font-size: 16px;
+            margin: 4px 2px;
+            padding: 15px 32px;
+            cursor: pointer;
+        }
+        .photobanner {
+            margin-bottom: 80px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="photobanner">
+        <img src="~/images/bruce.jpg" alt="logo" height="200" width="1420"/>
+    </div>
+        <h1 align="center">Bruce Peninsula National Park</h1>
+        <h3 align="center">Welcome to the Bruce Peninsula. The Bruce Peninsula is home to Tobermory, Lion's Head, Wiarton Sauble Beach Flowerpot Island!</h3>
+        <p align="center">With 2 national parks - the Bruce Peninsula National Park and Fathom Five National Marine Park , several provincial nature reserves, and the Niagara Escarpment as its base - there is no end to the worlds you can discover in this wondrous place. </p>
+        <p align="center"> Bruce Peninsula - Stay awhile, and rejuvenate your soul.</p>
+        <img src="~/images/b.jpg" alt="sample" height="500" width="1420" /> <br />
+        <br>
+        <h2 align="center"><a asp-action="SignUpForm" class="btn2">Sign Up Now!</a></h2>
+</body>
+</html>

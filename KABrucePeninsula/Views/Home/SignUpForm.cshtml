@@ -1,0 +1,104 @@
+﻿@model KABrucePeninsula.Models.Responses
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Sign Up Form</title>
+    <link rel="stylesheet" href="/css/Styles.css" />
+    <link rel="stylesheet" href="/lib/boostrap/dist/css/bootstrap.css" />
+    <style>
+        body {
+            font-family: "Dual-300", sans;
+            background-color: #e2f3ff;
+            margin-top: 30px;
+        }
+        *
+        {
+            box-sizing: border-box;
+        }
+        input[type=text], select, textarea {
+            width: 175%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+        }
+        .photo-left
+        {
+            float: right;
+            margin-left: 50px;
+            margin-right: 200px;
+            margin-top: 35px;
+        }
+        .btn {
+            font-weight: bold;
+            background-color: #e5e5e5;
+            border: black;
+            color: #5c5d5e;
+            text-align: center;
+            font-size: 16px;
+            margin: 4px 2px;
+            padding: 15px 32px;
+            cursor: pointer;
+        }
+        .panel-heading
+        {
+            border-radius: 5px;
+            padding: 20px;
+            float: left;
+            box-sizing: border-box;
+            margin-left: 200px;
+            margin-right: 50px;
+        }
+    </style>
+</head>
+<body >
+    <div class="panel panel-success">
+        <div class="panel-heading text-center">
+            <h1>Reservations</h1>
+            <div class="panel-body">
+                <form class="p-a-1" asp-action="SignUpForm" method="post">
+                    <div asp-validation-summary="All"></div>
+
+                    <div class="form-group">
+                        <label asp-for="Name"> Name:</label>
+                        <input asp-for="Name" />
+                    </div><br />
+                    <div class="form-group">
+                        <label asp-for="Email"> Email:</label>
+                        <input asp-for="Email" />
+                    </div><br />
+                    <div class="form-group">
+                        <label asp-for="Phone"> Phone:</label>
+                        <input asp-for="Phone" />
+                    </div><br />
+                    <div class="form-group">
+                        <label>Are you coming?</label>
+                        <select asp-for="WillAttend">
+                            <option value="">Choose an option</option>
+                            <option value="true">Yes</option>
+                            <option value="false">No</option>
+                        </select>
+                    </div><br />
+                    <div class="form-group">
+                        <label asp-for="DateSelection">Date of arrival:</label>
+                        <input asp-for="DateSelection" type="date" id="DateSelection" value="2014-02-09" max="2100-12-31" />
+                    </div><br />
+                    <div class="text-center">
+                        <button class="btn btn-primary" onclick="myFunction()" type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+        <div class="photo-left">
+         <img src="~/images/k.jpg" alt="k" height="700" width="500" />
+    </div>
+</body>
+</html>

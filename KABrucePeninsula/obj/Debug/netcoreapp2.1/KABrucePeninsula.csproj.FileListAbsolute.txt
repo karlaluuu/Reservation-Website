@@ -1,0 +1,73 @@
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/bin/Debug/netcoreapp2.1/KABrucePeninsula.deps.json
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/bin/Debug/netcoreapp2.1/KABrucePeninsula.runtimeconfig.json
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/bin/Debug/netcoreapp2.1/KABrucePeninsula.runtimeconfig.dev.json
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/bin/Debug/netcoreapp2.1/KABrucePeninsula.dll
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/bin/Debug/netcoreapp2.1/KABrucePeninsula.pdb
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/bin/Debug/netcoreapp2.1/KABrucePeninsula.Views.dll
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/bin/Debug/netcoreapp2.1/KABrucePeninsula.Views.pdb
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.csprojAssemblyReference.cache
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.csproj.CoreCompileInputs.cache
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.RazorAssemblyInfo.cache
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.RazorAssemblyInfo.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.AssemblyInfoInputs.cache
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.AssemblyInfo.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.TagHelpers.input.cache
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.TagHelpers.output.cache
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.RazorCoreGenerate.cache
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.RazorTargetAssemblyInfo.cache
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.RazorTargetAssemblyInfo.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.Views.pdb
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.dll
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.pdb
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/KABrucePeninsula.csproj.CopyComplete
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Home/SignUp.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Home/SignUpForm.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Home/Thanks.g.cshtml.cs
+/Users/karlaluuu/Desktop/Semester 3/Web Application Development/KABrucePeninsula/KABrucePeninsula/obj/Debug/netcoreapp2.1/Razor/Views/Home/ListResponses.g.cshtml.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\bin\Debug\netcoreapp2.1\appsettings.Development.json
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\bin\Debug\netcoreapp2.1\appsettings.json
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\bin\Debug\netcoreapp2.1\KABrucePeninsula.deps.json
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\bin\Debug\netcoreapp2.1\KABrucePeninsula.runtimeconfig.json
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\bin\Debug\netcoreapp2.1\KABrucePeninsula.runtimeconfig.dev.json
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\bin\Debug\netcoreapp2.1\KABrucePeninsula.dll
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\bin\Debug\netcoreapp2.1\KABrucePeninsula.pdb
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\bin\Debug\netcoreapp2.1\KABrucePeninsula.Views.dll
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\bin\Debug\netcoreapp2.1\KABrucePeninsula.Views.pdb
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.csprojAssemblyReference.cache
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.AssemblyInfoInputs.cache
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.AssemblyInfo.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.csproj.CoreCompileInputs.cache
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.RazorAssemblyInfo.cache
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.RazorAssemblyInfo.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.TagHelpers.input.cache
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.TagHelpers.output.cache
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.RazorCoreGenerate.cache
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Home\ListResponses.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Home\SignUp.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Home\SignUpForm.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Home\Thanks.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.RazorTargetAssemblyInfo.cache
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.RazorTargetAssemblyInfo.cs
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.Views.pdb
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.dll
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.pdb
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.genruntimeconfig.cache
+K:\Karlaluuu-PC\Downloads\KABrucePeninsula\KABrucePeninsula\obj\Debug\netcoreapp2.1\KABrucePeninsula.csproj.CopyComplete

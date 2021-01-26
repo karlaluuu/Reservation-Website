@@ -1,0 +1,73 @@
+﻿@model IEnumerable<KABrucePeninsula.Models.Responses>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> Responses </title>
+    <style>
+        body {
+            font-family: "Dual-300", sans;
+            background-color: #e2f3ff;
+        }
+
+    * {
+        box-sizing: border-box;
+    }
+    table
+    {
+        border-collapse: collapse;
+        width: 100%;
+    }
+        td, th
+        {
+            border: 1px solid #b5b3b7;
+            text-align: center;
+            padding: 8px;
+        }
+        .btn3, .btn4 {
+            font-weight: bold;
+            background-color: #e5e5e5;
+            border: black;
+            color: #5c5d5e;
+            text-align: center;
+            font-size: 16px;
+            margin: 4px 2px;
+            padding: 15px 32px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body align="center">
+    <h1> Here is the list of people coming to the trip</h1>
+    <table align="center">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Date Selected</th>
+                <th>Time registered</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (KABrucePeninsula.Models.Responses r in Model)
+            {
+                <tr>
+                    <td> @r.Name</td>
+                    <td> @r.Email</td>
+                    <td> @r.Phone</td>
+                    <td>@r.DateSelection</td>
+                    <td>@r.currentTime</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+    <br />
+        <a class="btn3" href='javascript:history.go(-2)'>Go Back to Previous Page</a>
+    <a class="btn4" href='javascript:history.go(-3)'>Go Back to Homepage</a>
+</body>
+</html>

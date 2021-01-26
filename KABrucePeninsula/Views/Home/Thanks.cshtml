@@ -1,0 +1,41 @@
+﻿@model KABrucePeninsula.Models.Responses
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> Thanks </title>
+    <style>
+        body {
+            font-family: "Dual-300", sans;
+            background-color: #e2f3ff;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+        .btn3, .btn4 {
+            font-weight: bold;
+            background-color: #e5e5e5;
+            border: black;
+            color: #5c5d5e;
+            text-align: center;
+            font-size: 16px;
+            margin: 4px 2px;
+            padding: 15px 32px;
+            cursor: pointer;
+            align-content: center;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center"> Your trip is confirmed, @Model.Name</h1>
+    <p align="center"> Click <a asp-action="ListResponses">here</a> to see who is coming.</p>
+    <a class="btn3" href='javascript:history.go(-1)'>Go Back to Previous Page</a>
+    <a class="btn4" href='javascript:history.go(-2)'>Go Back to Homepage</a>
+</body>
+</html>
